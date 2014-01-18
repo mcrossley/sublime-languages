@@ -174,7 +174,7 @@
             </dict>
         </dict>
         <key>name</key>
-        <string>Batch File</string>
+        <string>Better Batch File</string>
         <key>scopeName</key>
         <string>source.dosbatch</string>
         <key>fileTypes</key>
